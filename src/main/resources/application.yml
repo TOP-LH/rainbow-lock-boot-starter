@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: localhost
+    database: 10
+  #    password: 123456
